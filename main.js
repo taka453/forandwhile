@@ -16,6 +16,6 @@
 //for文を使って九九の答えを出力してみる。
 for(let i = 1; i <= 9; i++) {
     for(let j = 1; j <= 9; j++) {
-        document.write(i + "x" + j + "=" + i * j + "<br>");
+        document.write(i + " × " + j + " = " + i * j + "<br>");
     }
 }
